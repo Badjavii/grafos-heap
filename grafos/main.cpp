@@ -1,6 +1,6 @@
 #include <iostream>
-#include "grafos/extras.h"
-#include "grafos/djikstra.h"
+#include "extras.h"
+#include "djikstra.h"
 #include <vector>
 using namespace std;
 
